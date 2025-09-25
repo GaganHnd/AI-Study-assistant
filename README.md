@@ -10,11 +10,6 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## Demo
-
-
-
-https://github.com/user-attachments/assets/1ea26947-1dca-408d-9741-b24c3429944a
 
 
 
@@ -109,7 +104,7 @@ Mind Mentor is an intelligent study companion that leverages AI to transform the
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/KartikLabhshetwar/mind-mentor
+git clone https://github.com/GaganHnd/AI-study-assistant.git
 cd mind-mentor
 ```
 
@@ -207,4 +202,4 @@ This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENS
 
 ---
 
-Built with 💡 by Kartik Labhshetwar
+
