@@ -8,7 +8,6 @@
 - [API Integration](#api-integration)
 - [Usage Guide](#usage-guide)
 - [Contributing](#contributing)
-- [License](#license)
 
 
 
